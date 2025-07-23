@@ -7,3 +7,4 @@ word_list = [
     "sunshine", "rainbow", "thunder", "storm", "lightning", "cloud", "breeze", "summer", "winter",
     "freedom", "happiness", "courage", "success", "future", "journey", "adventure", "dream"
 ]
+
